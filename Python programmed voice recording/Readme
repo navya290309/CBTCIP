@@ -1,0 +1,7 @@
+This project has been maintained by Aryan Singh 
+Under the guidance of CipherByte Technologies
+Project name = Voice Recording through python
+Requires one operator
+
+Make sure you have all the required libraries installed 
+(tkinter, PIL, imageio, pyaudio, sounddevice, numpy, and wavio).
