@@ -5,3 +5,10 @@ Requires one operator
 
 Make sure you have all the required libraries installed 
 (tkinter, PIL, imageio, pyaudio, sounddevice, numpy, and wavio).
+
+To use :-
+click on python voice recording.zip
+then on 'view raw' button 
+then download it 
+them extract it
+Open with code
